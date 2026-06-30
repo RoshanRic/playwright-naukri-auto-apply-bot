@@ -177,11 +177,8 @@ The bot automatically generates:
 
 # 🎥 Demo
 
-Add your demo GIF or video here.
+https://www.linkedin.com/posts/roshan-ric_playwright-javascript-automationtesting-ugcPost-7477475231155015681-kZeQ/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADPB9M4BSeaemDlRsa1cJCAXNfG32JvFOWg
 
-Example:
-
-![Demo](demo.gif)
 
 ---
 
